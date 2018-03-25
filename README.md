@@ -17,9 +17,7 @@ bu projenin amacı asansör hesaplarının tasarım ve otomasyon ile kolaylıkla
 <img src="https://github.com/muratmeric/AsansorTasarimi/blob/master/ekran%20görüntüleri/11.jpg" width="200" style="max-width:100%;"></a>
   </td>
       </tr>
-    
-    
-     <tr>
+   <tr>
   <td>
 <a href="https://github.com/muratmeric/AsansorTasarimi/blob/master/ekran%20görüntüleri/12.jpg" target="_blank">
 <img src="https://github.com/muratmeric/AsansorTasarimi/blob/master/ekran%20görüntüleri/12.jpg" width="200" style="max-width:100%;"></a>
@@ -33,10 +31,6 @@ bu projenin amacı asansör hesaplarının tasarım ve otomasyon ile kolaylıkla
 <img src="https://github.com/muratmeric/AsansorTasarimi/blob/master/ekran%20görüntüleri/14.jpg" width="200" style="max-width:100%;"></a>
   </td>
 </tr>
-
-
-
-
 <tr>
   <td>
 <a href="https://github.com/muratmeric/AsansorTasarimi/blob/master/ekran%20görüntüleri/144.jpg" target="_blank">
@@ -51,10 +45,6 @@ bu projenin amacı asansör hesaplarının tasarım ve otomasyon ile kolaylıkla
 <img src="https://github.com/muratmeric/AsansorTasarimi/blob/master/ekran%20görüntüleri/16.jpg" width="200" style="max-width:100%;"></a>
   </td>
 </tr>
-
-
-
-
 <tr>
   <td>
 <a href="https://github.com/muratmeric/AsansorTasarimi/blob/master/ekran%20görüntüleri/17.jpg" target="_blank">
@@ -69,11 +59,6 @@ bu projenin amacı asansör hesaplarının tasarım ve otomasyon ile kolaylıkla
 <img src="https://github.com/muratmeric/AsansorTasarimi/blob/master/ekran%20görüntüleri/19.jpg" width="200" style="max-width:100%;"></a>
   </td>
 </tr>
-
-
-
-
-
 <tr>
   <td>
 <a href="https://github.com/muratmeric/AsansorTasarimi/blob/master/ekran%20görüntüleri/2.jpg" target="_blank">
@@ -88,10 +73,6 @@ bu projenin amacı asansör hesaplarının tasarım ve otomasyon ile kolaylıkla
 <img src="https://github.com/muratmeric/AsansorTasarimi/blob/master/ekran%20görüntüleri/21.jpg" width="200" style="max-width:100%;"></a>
   </td>
 </tr>
-
-
-
-
 <tr>
   <td>
 <a href="https://github.com/muratmeric/AsansorTasarimi/blob/master/ekran%20görüntüleri/22.jpg" target="_blank">
@@ -106,11 +87,6 @@ bu projenin amacı asansör hesaplarının tasarım ve otomasyon ile kolaylıkla
 <img src="https://github.com/muratmeric/AsansorTasarimi/blob/master/ekran%20görüntüleri/24.jpg" width="200" style="max-width:100%;"></a>
   </td>
 </tr>
-
-
-
-
-
 <tr>
   <td>
 <a href="https://github.com/muratmeric/AsansorTasarimi/blob/master/ekran%20görüntüleri/3.jpg" target="_blank">
@@ -125,9 +101,6 @@ bu projenin amacı asansör hesaplarının tasarım ve otomasyon ile kolaylıkla
 <img src="https://github.com/muratmeric/AsansorTasarimi/blob/master/ekran%20görüntüleri/5.jpg" width="200" style="max-width:100%;"></a>
   </td>
 </tr>
-
-
-
 <tr>
   <td>
 <a href="https://github.com/muratmeric/AsansorTasarimi/blob/master/ekran%20görüntüleri/6.jpg" target="_blank">
@@ -142,11 +115,6 @@ bu projenin amacı asansör hesaplarının tasarım ve otomasyon ile kolaylıkla
 <img src="https://github.com/muratmeric/AsansorTasarimi/blob/master/ekran%20görüntüleri/8.jpg" width="200" style="max-width:100%;"></a>
   </td>
 </tr>
-
-
-
-
-
 <tr>
   <td>
 <a href="https://github.com/muratmeric/AsansorTasarimi/blob/master/ekran%20görüntüleri/9.jpg" target="_blank">
@@ -161,11 +129,6 @@ bu projenin amacı asansör hesaplarının tasarım ve otomasyon ile kolaylıkla
 <img src="https://github.com/muratmeric/AsansorTasarimi/blob/master/ekran%20görüntüleri/forma11in.jpg" width="200" style="max-width:100%;"></a>
   </td>
 </tr>
-
-
-
-
-
 <tr>
   <td>
 <a href="https://github.com/muratmeric/AsansorTasarimi/blob/master/ekran%20görüntüleri/forma1in.jpg" target="_blank">
@@ -180,10 +143,6 @@ bu projenin amacı asansör hesaplarının tasarım ve otomasyon ile kolaylıkla
 <img src="https://github.com/muratmeric/AsansorTasarimi/blob/master/ekran%20görüntüleri/oto1.jpg" width="200" style="max-width:100%;"></a>
   </td>
 </tr>
-
-
-
-
 <tr>
   <td>
 <a href="https://github.com/muratmeric/AsansorTasarimi/blob/master/ekran%20görüntüleri/oto2.jpg" target="_blank">
