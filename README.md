@@ -198,26 +198,13 @@ bu projenin amacı asansör hesaplarının tasarım ve otomasyon ile kolaylıkla
 <img src="https://github.com/muratmeric/AsansorTasarimi/blob/master/ekran%20görüntüleri/oto5.jpg" width="200" style="max-width:100%;"></a>
   </td>
 </tr>
-
-
-
-
-
 <tr>
   <td>
 <a href="https://github.com/muratmeric/AsansorTasarimi/blob/master/ekran%20görüntüleri/oto6.jpg" target="_blank">
 <img src="https://github.com/muratmeric/AsansorTasarimi/blob/master/ekran%20görüntüleri/oto6.jpg" width="200" style="max-width:100%;"></a>
-  </td>
-    <td>
+ </td>
+ <td>
 <a href="https://github.com/muratmeric/AsansorTasarimi/blob/master/ekran%20görüntüleri/oto3.jpg" target="_blank">
 <img src="https://github.com/muratmeric/AsansorTasarimi/blob/master/ekran%20görüntüleri/oto3.jpg" width="200" style="max-width:100%;"></a>
   </td>
-</tr>
-
-
-
-
-
-
-        
-    </table>
+</tr></table>
